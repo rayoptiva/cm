@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="custadmin-home" path="custadmin-home.html"/>
+   <appContext helpID="custadmin-searching" path="custadmin-searching.html"/>
+   <appContext helpID="custadmin-party-list" path="custadmin-party-list.html"/>
+   <appContext helpID="custadmin-create-party-Copy"
+               path="create-party-individual.html"/>
+   <appContext helpID="edit_a_party" path="edit_a_party.html"/>
+   <appContext helpID="custadmin-customer-dash" path="custadmin-customer-dash.html"/>
+   <appContext helpID="custadmin-individual-customers"
+               path="custadmin-individual-customers.html"/>
+   <appContext helpID="customer-edit" path="customer-edit.html"/>
+   <appContext helpID="accounts" path="accounts.html"/>
+   <appContext helpID="create_account" path="create_account.html"/>
+   <appContext helpID="edit_account" path="edit_account.html"/>
+   <appContext helpID="subscription" path="subscription.html"/>
+   <appContext helpID="create_subscriptions" path="create_subscriptions.html"/>
+   <appContext helpID="edit_subscription" path="edit_subscription.html"/>
+   <appContext helpID="cases" path="cases.html"/>
+   <appContext helpID="settings" path="settings.html"/>
+</map>
