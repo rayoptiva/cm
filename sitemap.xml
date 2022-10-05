@@ -2,66 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>custadmin-home.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>custadmin-searching.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>custadmin-party-list.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>create-party-individual.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>edit_a_party.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>custadmin-customer-dash.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>custadmin-individual-customers.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>customer-edit.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>accounts.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>create_account.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>edit_account.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>subscription.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>create_subscriptions.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
-      <loc>edit_subscription.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <loc>subs-call-details.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
+   </url>
+   <url>
+      <loc>subs-usage-and-balance.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
+   </url>
+   <url>
+      <loc>cug-about.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
+   </url>
+   <url>
+      <loc>cug-create.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
+   </url>
+   <url>
+      <loc>cug-add-new-memb.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
+   </url>
+   <url>
+      <loc>cug-edit.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
+   </url>
+   <url>
+      <loc>plp-plans.html</loc>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>cases.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
    <url>
       <loc>settings.html</loc>
-      <lastmod>2022-09-15T09:17:52Z</lastmod>
+      <lastmod>2022-10-05T07:33:36Z</lastmod>
    </url>
 </urlset>
