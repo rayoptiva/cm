@@ -20,6 +20,5 @@
    <appContext helpID="cug-add-new-memb" path="cug-add-new-memb.html"/>
    <appContext helpID="cug-edit" path="cug-edit.html"/>
    <appContext helpID="plp-plans" path="plp-plans.html"/>
-   <appContext helpID="cases" path="cases.html"/>
    <appContext helpID="settings" path="settings.html"/>
 </map>
