@@ -13,9 +13,11 @@
    <appContext helpID="edit-account" path="edit_account.html"/>
    <appContext helpID="subscription-list" path="subscription.html"/>
    <appContext helpID="manage-subscriptions" path="create_subscriptions.html"/>
+   <appContext helpID="recharge" path="recharge.html"/>
    <appContext helpID="subscript-call-details" path="subs-call-details.html"/>
+   <appContext helpID="subs-history" path="sub-hist.html"/>
+   <appContext helpID="subhist" path="subhist.html"/>
    <appContext helpID="subs-usage-and-balance" path="subs-usage-and-balance.html"/>
-   <appContext helpID="recharge-history" path="recharge-history.html"/>
    <appContext helpID="flex-bundle" path="flex-bundle.html"/>
    <appContext helpID="cug-about" path="cug-about.html"/>
    <appContext helpID="cug-create" path="cug-create.html"/>
@@ -23,5 +25,9 @@
    <appContext helpID="cug-edit" path="cug-edit.html"/>
    <appContext helpID="plp-plans" path="plp-plans.html"/>
    <appContext helpID="pin-management" path="pin-management.html"/>
+   <appContext helpID="orders" path="orders.html"/>
+   <appContext helpID="orders-about" path="orders-about.html"/>
+   <appContext helpID="change-sim" path="change-sim.html"/>
    <appContext helpID="settings" path="settings.html"/>
+   <appContext helpID="glossary" path="glossary.html"/>
 </map>
